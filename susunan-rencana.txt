@@ -4,4 +4,7 @@ SUSUNAN RENCANA
 - Latihan
 - Perbanyak membaca
 - Coding
+    ^ PHP
+  ^ javascript
 - Mengatur waktu istirahat
+- belajar materi 2
