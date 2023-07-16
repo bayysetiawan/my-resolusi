@@ -4,4 +4,8 @@ SUSUNAN RENCANA
 - Latihan
 - Perbanyak membaca
 - Coding
+  ^ html
+  ^ CSS
 - Mengatur waktu istirahat
+- Tambah materi baru 1
+- Mencari sumber coding
