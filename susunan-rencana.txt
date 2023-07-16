@@ -8,3 +8,4 @@ SUSUNAN RENCANA
   ^ CSS
 - Mengatur waktu istirahat
 - Tambah materi baru 1
+- Mencari sumber coding
