@@ -8,3 +8,8 @@ SUSUNAN RENCANA
   ^ javascript
 - Mengatur waktu istirahat
 - belajar materi 2
+  ^ html
+  ^ CSS
+- Mengatur waktu istirahat
+- Tambah materi baru 1
+- Mencari sumber coding
